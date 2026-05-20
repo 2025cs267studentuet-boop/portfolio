@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PortFolio\\portfolio\\FYP Management System Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C77F96-0564-4F98-A7F4-4823CB34202E}|FYP_Management_System\\FYP_Management_System.csproj|d:\\portfolio\\portfolio\\fyp management system project\\fyp_management_system\\studentcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6C77F96-0564-4F98-A7F4-4823CB34202E}|FYP_Management_System\\FYP_Management_System.csproj|solutionrelative:fyp_management_system\\studentcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C77F96-0564-4F98-A7F4-4823CB34202E}|FYP_Management_System\\FYP_Management_System.csproj|d:\\portfolio\\portfolio\\fyp management system project\\fyp_management_system\\reportscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6C77F96-0564-4F98-A7F4-4823CB34202E}|FYP_Management_System\\FYP_Management_System.csproj|solutionrelative:fyp_management_system\\reportscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C77F96-0564-4F98-A7F4-4823CB34202E}|FYP_Management_System\\FYP_Management_System.csproj|d:\\portfolio\\portfolio\\fyp management system project\\fyp_management_system\\projectcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6C77F96-0564-4F98-A7F4-4823CB34202E}|FYP_Management_System\\FYP_Management_System.csproj|solutionrelative:fyp_management_system\\projectcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C77F96-0564-4F98-A7F4-4823CB34202E}|FYP_Management_System\\FYP_Management_System.csproj|d:\\portfolio\\portfolio\\fyp management system project\\fyp_management_system\\projectassignmentcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6C77F96-0564-4F98-A7F4-4823CB34202E}|FYP_Management_System\\FYP_Management_System.csproj|solutionrelative:fyp_management_system\\projectassignmentcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C77F96-0564-4F98-A7F4-4823CB34202E}|FYP_Management_System\\FYP_Management_System.csproj|d:\\portfolio\\portfolio\\fyp management system project\\fyp_management_system\\groupmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6C77F96-0564-4F98-A7F4-4823CB34202E}|FYP_Management_System\\FYP_Management_System.csproj|solutionrelative:fyp_management_system\\groupmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C77F96-0564-4F98-A7F4-4823CB34202E}|FYP_Management_System\\FYP_Management_System.csproj|d:\\portfolio\\portfolio\\fyp management system project\\fyp_management_system\\evaluationcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6C77F96-0564-4F98-A7F4-4823CB34202E}|FYP_Management_System\\FYP_Management_System.csproj|solutionrelative:fyp_management_system\\evaluationcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C77F96-0564-4F98-A7F4-4823CB34202E}|FYP_Management_System\\FYP_Management_System.csproj|d:\\portfolio\\portfolio\\fyp management system project\\fyp_management_system\\advisorcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6C77F96-0564-4F98-A7F4-4823CB34202E}|FYP_Management_System\\FYP_Management_System.csproj|solutionrelative:fyp_management_system\\advisorcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C77F96-0564-4F98-A7F4-4823CB34202E}|FYP_Management_System\\FYP_Management_System.csproj|d:\\portfolio\\portfolio\\fyp management system project\\fyp_management_system\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6C77F96-0564-4F98-A7F4-4823CB34202E}|FYP_Management_System\\FYP_Management_System.csproj|solutionrelative:fyp_management_system\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentControl.cs [Design]",
+              "DocumentMoniker": "D:\\PortFolio\\portfolio\\FYP Management System Project\\FYP_Management_System\\StudentControl.cs",
+              "RelativeDocumentMoniker": "FYP_Management_System\\StudentControl.cs",
+              "ToolTip": "D:\\PortFolio\\portfolio\\FYP Management System Project\\FYP_Management_System\\StudentControl.cs [Design]",
+              "RelativeToolTip": "FYP_Management_System\\StudentControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T21:58:43.228Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportsControl.cs [Design]",
+              "DocumentMoniker": "D:\\PortFolio\\portfolio\\FYP Management System Project\\FYP_Management_System\\ReportsControl.cs",
+              "RelativeDocumentMoniker": "FYP_Management_System\\ReportsControl.cs",
+              "ToolTip": "D:\\PortFolio\\portfolio\\FYP Management System Project\\FYP_Management_System\\ReportsControl.cs [Design]",
+              "RelativeToolTip": "FYP_Management_System\\ReportsControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T21:58:42.132Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjectControl.cs [Design]",
+              "DocumentMoniker": "D:\\PortFolio\\portfolio\\FYP Management System Project\\FYP_Management_System\\ProjectControl.cs",
+              "RelativeDocumentMoniker": "FYP_Management_System\\ProjectControl.cs",
+              "ToolTip": "D:\\PortFolio\\portfolio\\FYP Management System Project\\FYP_Management_System\\ProjectControl.cs [Design]",
+              "RelativeToolTip": "FYP_Management_System\\ProjectControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T21:58:41.124Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectAssignmentControl.cs [Design]",
+              "DocumentMoniker": "D:\\PortFolio\\portfolio\\FYP Management System Project\\FYP_Management_System\\ProjectAssignmentControl.cs",
+              "RelativeDocumentMoniker": "FYP_Management_System\\ProjectAssignmentControl.cs",
+              "ToolTip": "D:\\PortFolio\\portfolio\\FYP Management System Project\\FYP_Management_System\\ProjectAssignmentControl.cs [Design]",
+              "RelativeToolTip": "FYP_Management_System\\ProjectAssignmentControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T21:58:40.179Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GroupManagement.cs [Design]",
+              "DocumentMoniker": "D:\\PortFolio\\portfolio\\FYP Management System Project\\FYP_Management_System\\GroupManagement.cs",
+              "RelativeDocumentMoniker": "FYP_Management_System\\GroupManagement.cs",
+              "ToolTip": "D:\\PortFolio\\portfolio\\FYP Management System Project\\FYP_Management_System\\GroupManagement.cs [Design]",
+              "RelativeToolTip": "FYP_Management_System\\GroupManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T21:58:39.039Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EvaluationControl.cs [Design]",
+              "DocumentMoniker": "D:\\PortFolio\\portfolio\\FYP Management System Project\\FYP_Management_System\\EvaluationControl.cs",
+              "RelativeDocumentMoniker": "FYP_Management_System\\EvaluationControl.cs",
+              "ToolTip": "D:\\PortFolio\\portfolio\\FYP Management System Project\\FYP_Management_System\\EvaluationControl.cs [Design]",
+              "RelativeToolTip": "FYP_Management_System\\EvaluationControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T21:58:37.78Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdvisorControl.cs [Design]",
+              "DocumentMoniker": "D:\\PortFolio\\portfolio\\FYP Management System Project\\FYP_Management_System\\AdvisorControl.cs",
+              "RelativeDocumentMoniker": "FYP_Management_System\\AdvisorControl.cs",
+              "ToolTip": "D:\\PortFolio\\portfolio\\FYP Management System Project\\FYP_Management_System\\AdvisorControl.cs [Design]",
+              "RelativeToolTip": "FYP_Management_System\\AdvisorControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T21:58:35.236Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "D:\\PortFolio\\portfolio\\FYP Management System Project\\FYP_Management_System\\frmMain.cs",
+              "RelativeDocumentMoniker": "FYP_Management_System\\frmMain.cs",
+              "ToolTip": "D:\\PortFolio\\portfolio\\FYP Management System Project\\FYP_Management_System\\frmMain.cs [Design]",
+              "RelativeToolTip": "FYP_Management_System\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T21:58:28.596Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

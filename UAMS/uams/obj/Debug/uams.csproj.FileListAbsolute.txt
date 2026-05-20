@@ -1,0 +1,7 @@
+C:\uams\uams\bin\Debug\uams.exe.config
+C:\uams\uams\bin\Debug\uams.exe
+C:\uams\uams\bin\Debug\uams.pdb
+C:\uams\uams\obj\Debug\uams.csproj.AssemblyReference.cache
+C:\uams\uams\obj\Debug\uams.csproj.CoreCompileInputs.cache
+C:\uams\uams\obj\Debug\uams.exe
+C:\uams\uams\obj\Debug\uams.pdb
